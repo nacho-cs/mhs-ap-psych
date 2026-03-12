@@ -9,9 +9,3 @@ ol {
   padding-top: 0;
   margin-top: 0;
 }
-
-/* div[class*="Flashcard"],
-div[class*="flashcard"] {
-  /* Change 0.8s to whatever duration you want (e.g., 0.2s for fast, 1.5s for slow) */
-  transition: transform 0.8s ease-in-out !important;
-} */
