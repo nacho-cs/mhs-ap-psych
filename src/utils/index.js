@@ -21,7 +21,7 @@ const moduleList = [
   "Modules 74-76",
   "Modules 77 & 80",
   "Modules 43-44",
-  "Modules 65-69
+  "Modules 65-69"
 ];
 
 export const flashcardList = moduleList.map(item => {
